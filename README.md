@@ -1,19 +1,27 @@
-# Sample of Quality Report
+# Sample Quality Report
 
-This repository contains a sample **Quality Assurance (QA) report** used to track, document, and analyze the quality metrics of a software project. It is intended as a reference for QA professionals, software testers, and project managers who are building or refining their QA documentation processes.
+This repository contains an anonymized Quality Assurance (QA) report prepared during structured manual testing training on a commercial application.
 
-## 📄 About the Report
+The report demonstrates how testing results, defect statistics, and overall product quality were summarized and communicated after a testing cycle. All confidential information has been removed or replaced to comply with a non-disclosure agreement (NDA).
 
-- The report outlines standard QA components including:
-  - Test case execution summary
-  - Severity distribution
-  - Test coverage overview
-  - Screenshots and logs (where applicable)
+## Report Overview
 
-- It provides an example of how to structure and present quality findings in a professional and clear format.
+The report includes:
 
-> ⚠️ **Note:** All **sensitive and project-specific information has been blurred or redacted** to protect confidentiality. This includes:
-> - Project name
-> - Client identifiers
+- Overall quality assessment
+- General quality analysis
+- Defect statistics by severity
+- Defect distribution by module
+- Module quality evaluation
+- Top severity issues
+- Testing environment
+- Testing duration
+- Testing team information (anonymized)
 
-## 📁 Repository Structure
+## Purpose
+
+This document demonstrates my experience preparing QA documentation used to summarize testing outcomes, communicate software quality, and support testing decisions during a QA cycle.
+
+> **Disclaimer**
+>
+> This report is based on work completed during structured QA training on a commercial application. All application names, client information, internal identifiers, and other confidential details have been removed or replaced with placeholder values in accordance with a non-disclosure agreement (NDA).
